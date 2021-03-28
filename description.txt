@@ -1,0 +1,9 @@
+i have made a webpage ilustrating the web design i am gonna make to enhance students experience better at universities.
+i already have known that such portals are already existed but they are so much complex and does not give what i want as a student.
+i have used javascript to get a view of what i am gong to do.
+this web enables students to interact with each other irrespective of their batches, exchange tips and tricks and provde past papers as well.
+it also enables student to learn from the experiences of their teachers and seniors.
+i have used css and html to very basic level as i dont know much but i have learnt many amazing things.
+this also enable students to disscuss exams, collge events and seminars etc.
+this website also tells the students about loans and scholarships which is coming on its way.
+it also suggest the best spot to enhance their experience like park, computer lab, sports complex etc.
